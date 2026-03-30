@@ -92,3 +92,5 @@
 - Michael Abrash
 
 - JDH
+
+- Gabe Newell
