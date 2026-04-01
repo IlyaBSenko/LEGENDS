@@ -84,8 +84,13 @@
     - Created "ZuckNet" at 11 years old (program that lets computers talk to each other).
 
 - Ada Lovelace
+    - First ever Computer Programmer.
+    - 
     
 - Grace Hopper
+  - Devised the theory of machine-independent programming languages.
+  - Developed COBOL.
+  - Wrote the first ever computer manual.
 
 - Edsger Dijkstra
 
