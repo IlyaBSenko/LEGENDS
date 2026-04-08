@@ -99,3 +99,7 @@
 - JDH
 
 - Gabe Newell
+
+- Claude Shannon
+
+- David Rosen
