@@ -104,9 +104,6 @@
  
 ### Larry Page
 - Co-developed Google
-### Mark Zuckerberg
-- Developed Facebook
-- Created "ZuckNet" at 11 years old (program that lets computers talk to each other)
 ### Vitalik Buterin
 - Created Ethereum
 ### Tim Berners-Lee
