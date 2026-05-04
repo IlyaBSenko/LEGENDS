@@ -110,6 +110,8 @@
     - HTML
     - URL system
     - HTTP
+### Nathan Kirby
+- Top 0.1% on CSSBattle
 ---
  
 # Security & Hacking
