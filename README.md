@@ -35,13 +35,6 @@
 ### Edsger Dijkstra
 - Invented Dijkstra's algorithm (shortest path in graphs)
   - Which he reportedly worked out in 20 minutes at a cafe in Amsterdam
-### Claude Shannon
-- Invented information theory
-- Introduced bits as a unit of information with his 1948 paper "A Mathematical Theory of Communication"
-- Showed that Boolean algebra could describe electrical switching circuits with his earlier 1937 master's thesis
-- Contributed foundational work on cryptography during WWII
-- Built some of the earliest chess-playing and maze-solving machines
-- Had the most hyped AI model named after him because of how cracked he was
 ---
  
 # Hardware & Personal Computing (Personal Computers)
@@ -82,11 +75,6 @@
 - Founded Mojang Studios
 ### Ed Boon
 - Solo / lead programmer for Mortal Kombat back in the day
-### Gabe Newell
-- Co-founded Valve after leaving Microsoft
-  - Worked at Microsoft on Windows releases
-- Led development of Half-Life
-- Created Steam
 ### David Rosen
 - Was the head programmer at Wolfire Games (Overgrowth video game)
 - Started with HyperCard (1987 software to create applications) at the age of 6
@@ -99,13 +87,8 @@
   - Builds his own computer from scratch
   - And many more
 ---
- 
-# Platforms & Web
- 
-### Larry Page
-- Co-developed Google
-### Vitalik Buterin
-- Created Ethereum
+
+
 ### Tim Berners-Lee
 - Inventer of
     - World Wide Web
@@ -127,9 +110,6 @@
  
 # Machine Learning
  
-### Andrew Tulloch
-- Contributed important work at Meta and OpenAI for machine learning
-- Currently works at Meta Superintelligence Labs (MSL)
 ### Alan Turing
 - Influental in the development of theoretical computer science.
     - Providing a formalization of the concepts of:
