@@ -97,6 +97,7 @@
     - HTTP
 ### Nathan Kirby
 - Top 0.1% on CSSBattle
+- Mad Chill
 ---
  
 # Security & Hacking
