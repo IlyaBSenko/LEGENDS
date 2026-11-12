@@ -4,14 +4,13 @@
 # Terry Davis
 - Created and designed TempleOS
 - Created HolyC, along with a custom compiler, kernel, and editor
----
 
 # Notch
 - Created Minecraft (the most successful game of all time)
 - Founded Mojang Studios
 
+
 # Nathan Kirby
 - Top 0.1% on CSSBattle
 - Has David Bernsteins number
----
  
