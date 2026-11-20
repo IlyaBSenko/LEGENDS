@@ -1,5 +1,5 @@
 ## The following people are Computer Programmers who are widely considered to be legends in their field
-#### They are listed out of order but are categorized and with some of their more prominent accomplishments (not everything).
+### They are listed out of order but are categorized and with some of their more prominent accomplishments (not everything).
  
 # Terry Davis
 - Created and designed TempleOS
